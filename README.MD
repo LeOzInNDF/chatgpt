@@ -1,5 +1,6 @@
 ﻿<!-- <p align="center">
-<img src="https://imgur.com/npkT3Tw.png" width="350" title="chatgpt">
+<img src="https://imgur.com/npkT3Tw.png" width="350" title="chatgpt">![chatGPT2](https://user-images.githubusercontent.com/112107085/229077202-f4c92061-318e-42bd-8128-2495fca616c5.png)
+
 </p> -->
 
 
@@ -25,7 +26,8 @@ Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do Ope
   - React
   - Javascript
 
-![chatGPT2](https://user-images.githubusercontent.com/112107085/224461518-d4a2124c-feb1-45d8-8670-6b6a281f02f2.png)
+
+![Uploading chatGPT2.png…]()
 
 
 🔥
