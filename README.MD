@@ -27,7 +27,8 @@ Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do Ope
   - Javascript
 
 
-![Uploading chatGPT2.png…]()
+
+![chatGPT2](https://user-images.githubusercontent.com/112107085/229077427-02b812d5-b913-4252-a059-862052481dea.png)
 
 
 🔥
